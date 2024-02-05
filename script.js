@@ -4,7 +4,7 @@
 
 // Step 01 - Create a XML-HTTP Object
 var request= new XMLHttpRequest();
-// Step 02 - Initialze or Open a Request
+// Step 02 - Initialize or Open a Request
 request.open("GET","https://restcountries.com/v3.1/all")
 //Step 03:Kickstart a request
 request.send();

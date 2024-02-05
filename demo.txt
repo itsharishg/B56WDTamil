@@ -32,4 +32,4 @@ Git Commands
  git config --global user.name "someone"
  git config --global user.email "someone@someplace.com"
 
-< Source -  https://gist.github.com/MohanCloud-stack/32af8ccf466877df654fde3926681827 >
+Source -  https://gist.github.com/MohanCloud-stack/32af8ccf466877df654fde3926681827

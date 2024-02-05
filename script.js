@@ -9,7 +9,7 @@ request.open("GET","https://restcountries.com/v3.1/all")
 //Step 03:Kickstart a request
 request.send();
 //step04:
-//Once the data successfully received fron the server
+//Once the data successfully received from the server
 // server status code is 200
 // data coming from the server is of type string
 // we are converting string to object

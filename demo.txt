@@ -1,0 +1,35 @@
+What is the role of developer? To make things easier and quicker.
+
+* Jira Tickets - For separating developments 
+* Version Control System
+* Documentation
+
+VCS - Version Control System 
+SCM - Source Code Management [Git]
+CLI - Command Line Interface ( In Terminal CLI [ Git])
+For every commands there will be certain rules
+Rule no.1 - Space should be between every command line
+
+What is Version Control System?
+-------------------------------
+Version control, also known as source control, is the practice of tracking and managing changes to software code.
+
+Git Commands
+------------
+
+ git init  - starting
+ git remote add origin [gitLink] see in your github repository under the push an existing repository from the command line
+ --> In Which repository I have to upload my file
+ 
+ git remote -v  ( Where we have to Upload and Download )
+ git add .  - which file we are going to upload
+ git commit -m "First commit"  -  Giving/Saving an Information which helps to identify
+ git branch -M main
+
+ git push origin main
+ 
+ in case for the first time
+ git config --global user.name "someone"
+ git config --global user.email "someone@someplace.com"
+
+< Source -  https://gist.github.com/MohanCloud-stack/32af8ccf466877df654fde3926681827 >
